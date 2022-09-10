@@ -1,4 +1,4 @@
-package pkg2;
+package customer_pkg;
 
 public class CustomerCompany extends Customer {
     private String registration;

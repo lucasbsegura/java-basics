@@ -1,4 +1,4 @@
-package pkg1;
+package person_pkg;
 
 public class PersonApp {
     public static void main(String[] args)    {
